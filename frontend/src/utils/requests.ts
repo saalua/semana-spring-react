@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://sds5-luana.herokuapp.com'
